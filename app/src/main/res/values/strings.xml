@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HignLowGame</string>
+    <string name="title">High Low Game</string>
+    <string name="placeholder">Enter a guess here</string>
+    <string name="guess_button">GUESS</string>
+    <string name="attempts">Attempts: 0</string>
+    <string name="again">Play Again</string>
+    <string name="feedback1">Your guess is not digit</string>
+    <string name="feedback_too_large">Your guess is too large</string>
+    <string name="feedback_too_small">Your guess is too small</string>
+    <string name="feedback_close_small">Your guess is pretty close. It\s small</string>
+    <string name="feedback_close_large">Your guess is pretty close. It\s large</string>
+    <string name="feedback_match">Correct ! ! !</string>
+    <string name="feedback_over">Game Over ! </string>
+    <string name="feedback_no_input">No input</string>
+
+</resources>
